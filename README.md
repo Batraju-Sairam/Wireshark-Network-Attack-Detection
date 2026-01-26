@@ -36,7 +36,7 @@ A hands-on cybersecurity lab project demonstrating **real-world SOC analyst skil
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Soldier-Sai/Wireshark-Network-Attack-Detection.git
+   git clone https://github.com/Batraju-Sairam/Wireshark-Network-Attack-Detection.git
    cd Wireshark-Network-Attack-Detection
    ```
 
@@ -144,7 +144,7 @@ If you found this project helpful for your SOC analyst journey, please give it a
 ## 📞 **Connect With Me**
 
 - **LinkedIn:** https://www.linkedin.com/in/batraju-sairam-016801267/
-- **GitHub:** https://github.com/Soldier-Sai
+- **GitHub:** https://github.com/Batraju-Sairam
 
 ---
 
